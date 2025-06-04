@@ -1,0 +1,42 @@
+
+:root { --nc-primary: pink;
+    --nc-primary-bg: blue;
+    --nc-primary-gradient:linear-gradient(blue,rgb(0, 191, 255));
+    --nc-primary-blue:blue;
+    --nc-primary-yellow:yellow;
+    --nc-primary-green:rgb(255, 255, 0);
+    --nc-error: yellow;
+    --nc-error-bg:white;
+    --nc-caution:rgba(255, 247, 0, 0.792);
+    --nc-caution-bg:rgba(0, 0, 255, 0.886);
+    --nc-success:rgb(0, 255, 255);
+    --nc-success-bg:white;
+    --nc-text-primary:rgba(0, 0, 0, 0.087);
+    --nc-text-primary-o:rgba(0, 0, 0, 0.087);
+    --nc-text-secondary:rgba(0, 0, 0, 0.463);
+    --nc-text-secondary-o:rgba(0, 0, 0, 0.928);
+    --nc-text-tertiary:rgba(0, 0, 0, 0.057);
+    --nc-text-tertiary-o:rgba(0, 0, 0, 0.955);
+    --nc-text-link:rgb(0, 102, 255);
+    --nc-util-mask:rgba(0, 0, 0, 0.007);
+    --nc-util-disabled:rgba(0, 0, 0, 0.026);
+    --nc-util-disabled-o:rgb(255, 255, 255);
+    --nc-util-line:white;
+    --nc-util-line-o:white;
+    --nc-util-bg:white;
+    --nc-util-placeholder:white;
+    --nc-util-pressed:white;
+    
+
+
+
+
+
+
+
+
+
+
+
+
+ } 
